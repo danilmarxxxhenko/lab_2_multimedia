@@ -1,0 +1,13 @@
+   Січ:   C4 vel= 40 dur=1.0
+   Лют:   D4 vel= 44 dur=1.0
+   Бер:   F4 vel= 46 dur=1.0
+   Кві:   D5 vel= 51 dur=1.0
+   Тра:   G5 vel=101 dur=1.0
+   Чер:   B5 vel=120 dur=1.0
+   Лип:   C6 vel=107 dur=1.0
+   Сер:   C6 vel= 81 dur=1.0
+   Вер:   F5 vel= 85 dur=1.0
+   Жов:   C5 vel= 59 dur=1.0
+   Лис:   F4 vel= 59 dur=1.0
+   Гру:   D4 vel= 62 dur=1.0
+Збережено: /tmp/x.mid
